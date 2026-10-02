@@ -1,0 +1,32 @@
+:root {
+  --color-primary: #0f172a;
+  --color-primary-dark: #020617;
+  --color-primary-soft: #eef0f2;
+  --color-background: #f5f7fb;
+  --color-surface: #ffffff;
+  --color-text: #0f172a;
+  --color-text-secondary: #475569;
+  --color-text-muted: #64748b;
+  --color-border: #e1e7ef;
+  --color-success: #2d8a61;
+  --color-success-soft: #e8f5ee;
+  --color-warning: #a46b18;
+  --color-warning-soft: #fff4dd;
+  --color-danger: #b34b58;
+  --color-danger-soft: #fcebed;
+  --color-info: #39779a;
+  --color-info-soft: #e8f3f8;
+  --radius-card: 10px;
+  --radius-control: 7px;
+  --shadow-card: 0 1px 2px rgba(15, 23, 42, 0.02), 0 5px 18px rgba(15, 23, 42, 0.035);
+  --font-body: "IBM Plex Sans", "Segoe UI", sans-serif;
+  --font-brand: "IBM Plex Sans", "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", Consolas, monospace;
+  --type-base: 16px;
+  --type-scale: 1.25;
+  --type-sm: .8rem;
+  --type-body: 1rem;
+  --type-md: 1.25rem;
+  --type-lg: 1.563rem;
+  --type-xl: 1.953rem;
+}

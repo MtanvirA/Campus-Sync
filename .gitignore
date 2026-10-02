@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# ASP.NET / .NET
+appsettings.Development.json
+
+# Node / package managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
